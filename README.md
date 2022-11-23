@@ -1,13 +1,20 @@
-
-
+<div style="display:flex;justify-content:center"><img width="300px" height="30%"  src="https://user-images.githubusercontent.com/57033653/203554461-f14900c1-3b19-4e6f-99ea-0e0c8913126f.gif" alt="programmer">
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=1000&pause=1000&color=000000&background=FFF80200&center=true&vCenter=true&multiline=true&width=500&height=117&lines=Hi+everyone!;My+name+is+Anatoliy!)](https://git.io/typing-svg)
 
-### About me
+## About me
 
-A passionate frontend developer fro Uzbekistan
+> A passionate frontend developer fro Uzbekistan
+> A passionate frontend developer fro Uzbekistan
+> A passionate frontend developer fro Uzbekistan
+> A passionate frontend developer fro Uzbekistan
+> A passionate frontend developer fro Uzbekistan
+> A passionate frontend developer fro Uzbekistan
 
-### Languages and Tools
+---
+
+## Languages and Tools
 
 ![HTML](https://img.shields.io/badge/html-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/css-090909?style=for-the-badge&logo=css3)
@@ -21,11 +28,15 @@ A passionate frontend developer fro Uzbekistan
 ![MaterialUI](https://img.shields.io/badge/MUI-090909?style=for-the-badge&logo=mui)
 ![Redux](https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=redux)
 
+---
+
 ### Follow me
 
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/burdasov_anatoliy/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anatoliy-burdasov/)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/BurdasovAnatoliy)
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnatoliyBurdasov&layout=compact)](https://github.com/AnatoliyBurdasov/github-readme-stats)
 
